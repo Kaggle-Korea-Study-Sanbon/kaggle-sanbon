@@ -33,7 +33,7 @@
 |  이름  |                 자료                  |
 | :----: | :-----------------------------------: |
 | 김동규 |                                       |
-| 박지훈 | [titanic](week2/박지훈_artificial-neural-network-using-keras.ipynb) |
+| 박지훈 | [titanic using keras](week2/박지훈_artificial-neural-network-using-keras.ipynb) |
 | 이은용 |                                       |
 | 이정환 |                                       |
 | 조윤기 | [titanic](week2/조윤기_titanic.ipynb) |
