@@ -35,7 +35,7 @@
 | 김동규 |                                       |
 | 박지훈 | [titanic (keras)](week2/박지훈_artificial-neural-network-using-keras.ipynb) |
 | 이은용 |                                       |
-| 이정환 |                                       |
+| 이정환 | [titanic (XGBoost)](week2/이정환_titanic-using-XGBoost.ipynb) |
 | 조윤기 | [titanic](week2/조윤기_titanic.ipynb) |
 
 <br>
