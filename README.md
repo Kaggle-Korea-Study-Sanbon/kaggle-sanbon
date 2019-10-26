@@ -48,7 +48,7 @@
 
 |  이름  |                     자료                     |
 | :----: | :------------------------------------------: |
-| 김동규 | week3/김동규_Study_categorical_variable.ipynb |
+| 김동규 | [categorical_variable](week3/김동규_Study_categorical_variable.ipynb) |
 | 이정환 | [XGBoost](week3/이정환_XGBoost.pptx)         |
 | 조윤기 | [data_leakage](week3/조윤기_data_leakage.md) |
 
