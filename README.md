@@ -54,14 +54,14 @@
 
 <br>
 
-### [네 번째 스터디](week4) (2019. 10. 22)
+### [네 번째 스터디](week4) (2019. 10. 27)
 
-**참여인원**:
+**참여인원**: 김동규, 이은용, 이정환, 조윤기
 
 **내용**: [캐글 Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) 공부하기 2
 
 |  이름  | 자료 |
 | :----: | :--: |
 | 박지훈 |      |
-| 이은용 |      |
-| 조윤기 |      |
+| 이은용 | [Cross_validation](week4/cross_validation_은용.ipynb) |
+| 조윤기 | [data_leakage2](week4/조윤기_data_leakage2.md) |
