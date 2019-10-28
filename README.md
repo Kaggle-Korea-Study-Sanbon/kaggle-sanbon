@@ -63,5 +63,5 @@
 |  이름  | 자료 |
 | :----: | :--: |
 | 박지훈 | [Pipelines](week4/박지훈_Pipelines.ipynb)|
-| 이은용 | [Cross_validation](week4/cross_validation_은용.ipynb) |
+| 이은용 | [Cross_validation](week4/Cross_validation_은용.ipynb) |
 | 조윤기 | [data_leakage2](week4/조윤기_data_leakage2.md) |
