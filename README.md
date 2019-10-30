@@ -18,7 +18,7 @@
 
 운영진, 스터디원 소개 및 스터디 방향 의논
 
-- **운영진**: [조윤기](https://github.com/joyoon729), 고재영
+- **운영진**: [조윤기](https://github.com/joyoon729)
 - **스터디원**: [김동규](https://github.com/DrumDong), [박지훈](https://github.com/jeehunpark), [이은용](https://github.com/namepen), [이정환](https://github.com/wjdghks9885)
 - **스터디 방향**: kaggle-classification-competition 정복하기
 
