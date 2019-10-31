@@ -31,10 +31,11 @@
 **내용**: [캐글 타이타닉](https://www.kaggle.com/c/titanic) 공부하기
 
 |  이름  |                 자료                  |
-| :----: | :-----------------------------------: |
+| :---: | :-----------------------------------: |
 | 김동규 | [titanic](week2/김동규_titanic1.ipynb)  |
 | 박지훈 | [titanic (keras)](week2/박지훈_artificial-neural-network-using-keras.ipynb) |
-| 이은용 |                                       |
+| 이은용 | [titanic (with yuhan)](week2/이은용_Titanic_part1.ipynb)  
+good|                                      |
 | 이정환 | [titanic (XGBoost)](week2/이정환_titanic-using-XGBoost.ipynb) |
 | 조윤기 | [titanic](week2/조윤기_titanic.ipynb) |
 
