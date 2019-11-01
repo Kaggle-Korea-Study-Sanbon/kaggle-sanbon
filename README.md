@@ -27,7 +27,6 @@
 ### [두 번째 스터디](week2) (2019. 10. 8)
 
 **참여인원**: 김동규, 박지훈, 이은용, 이정환, 조윤기
-
 **내용**: [캐글 타이타닉](https://www.kaggle.com/c/titanic) 공부하기
 
 |  이름  |                 자료                  |
@@ -43,7 +42,6 @@
 ### [세 번째 스터디](week3) (2019. 10. 15)
 
 **참여인원**: 김동규, 박지훈, 이은용, 이정환, 조윤기
-
 **내용**: [캐글 Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) 공부하기 1
 
 |  이름  |                     자료                     |
@@ -57,7 +55,6 @@
 ### [네 번째 스터디](week4) (2019. 10. 27)
 
 **참여인원**: 김동규, 이은용, 이정환, 조윤기
-
 **내용**: [캐글 Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) 공부하기 2
 
 |  이름  | 자료 |
