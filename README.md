@@ -1,13 +1,9 @@
 # Kaggle Korea Study Group
-
 ![https://www.facebook.com/groups/KaggleKoreaOpenGroup/](README.assets/kaggle-korea-facebook.jpg)
-
 ## `캐글 코리아` 산본지역 스터디 그룹
-
 >  **[캐글 코리아 페이스북](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)** 
 >
 > Note: No official relationship with kaggle
-
 캐글 코리아의 지역 스터디 그룹 중 **산본** 지역에서 활동하는 캐글 스터디 그룹입니다.
 
 <br>
@@ -33,7 +29,7 @@
 | :---: | :-----------------------------------: |
 | 김동규 | [titanic](week2/김동규_titanic1.ipynb)  |
 | 박지훈 | [titanic (keras)](week2/박지훈_artificial-neural-network-using-keras.ipynb) |
-| 이은용 | [titanic (with yuhan)](week2/이은용_Titanic_part1.ipynb)<br>[titanic part2](week2/이은용_TItanic_part2.ipynb) |
+| 이은용 | [titanic (with yuhan)](week2/이은용_Titanic_part1.ipynb)<br>[titanic (part2)](week2/이은용_TItanic_part2.ipynb) |
 | 이정환 | [titanic (XGBoost)](week2/이정환_titanic-using-XGBoost.ipynb) |
 | 조윤기 | [titanic](week2/조윤기_titanic.ipynb) |
 
