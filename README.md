@@ -3,7 +3,7 @@
 ## `캐글 코리아` 산본지역 스터디 그룹
 >  **[캐글 코리아 페이스북](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)** 
 >
-> Note: No official relationship with kaggle
+> Note: No official relationship with kaggle  
 캐글 코리아의 지역 스터디 그룹 중 **산본** 지역에서 활동하는 캐글 스터디 그룹입니다.
 
 <br>
