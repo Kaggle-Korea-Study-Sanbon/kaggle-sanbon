@@ -58,3 +58,29 @@
 | 박지훈 | [Pipelines](week4/박지훈_Pipelines.ipynb)|
 | 이은용 | [Cross_validation](week4/Cross_validation_은용.ipynb) |
 | 조윤기 | [data_leakage2](week4/조윤기_data_leakage2.md) |
+
+<br>
+
+### [다섯 번째 스터디](week5) (2019.11.2)
+
+**참여인원**: 김동규, 이은용, 이정환, 조윤기
+**내용**:  [캐글 Data Visualization](https://www.kaggle.com/learn/data-visualization) 공부하기
+
+| 이름   | 자료                                                         |
+| ------ | ------------------------------------------------------------ |
+| 김동규 | [LinePlot](week5/김동규_LinePlot.ipynb)                      |
+| 조윤기 | [BarCharts and Heatmaps](week5/조윤기/조윤기_Bar_Charts_and_Heatmaps.ipynb) |
+| 박지훈 | [ScatterPlot](week5/박지훈_Scatter_plot.ipynb)               |
+| 이정환 | [DistPlot and kdePlot](week5/이정환_distplot&kdeplot example.ipynb) |
+| 이은용 | - [plot style](week5/이은용_plot_style.ipynb)<br />- [seaborn style](week5/이은용_seaborn_style.ipynb) |
+
+<br>
+
+### [여섯 번째 스터디](week6) (2019.11.5)
+
+**참여인원**: 김동규, 박지훈, 이은용, 이정환, 조윤기
+
+**내용**: 
+
+- [캐글 컴피티션 - 2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019) 시작
+- '모각캐' 형식으로 진행
