@@ -71,7 +71,7 @@
 | 김동규 | [LinePlot](week5/김동규_LinePlot.ipynb)                      |
 | 조윤기 | [BarCharts and Heatmaps](week5/조윤기/조윤기_Bar_Charts_and_Heatmaps.ipynb) |
 | 박지훈 | [ScatterPlot](week5/박지훈_Scatter_plot.ipynb)               |
-| 이정환 | [DistPlot and kdePlot](week5/이정환_distplot&kdeplot example.ipynb) |
+| 이정환 | [DistPlot and kdePlot](week5/이정환_distplot_&_kdeplot_example.ipynb) |
 | 이은용 | - [plot style](week5/이은용_plot_style.ipynb)<br />- [seaborn style](week5/이은용_seaborn_style.ipynb) |
 
 <br>
