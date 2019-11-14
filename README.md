@@ -26,7 +26,7 @@
 **내용**: [캐글 타이타닉](https://www.kaggle.com/c/titanic) 공부하기
 
 |  이름  |                 자료                  |
-| :---: | :-----------------------------------: |
+| :---: | ----------------------------------- |
 | 김동규 | [titanic](week2/김동규_titanic1.ipynb)  |
 | 박지훈 | [titanic (keras)](week2/박지훈_artificial-neural-network-using-keras.ipynb) |
 | 이은용 | [titanic (with yuhan)](week2/이은용_Titanic_part1.ipynb)<br>[titanic (part2)](week2/이은용_TItanic_part2.ipynb) |
@@ -41,7 +41,7 @@
 **내용**: [캐글 Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) 공부하기 1
 
 |  이름  |                     자료                     |
-| :----: | :------------------------------------------: |
+| :----: | ------------------------------------------ |
 | 김동규 | [categorical_variable](week3/김동규_Study_categorical_variable.ipynb) |
 | 이정환 | [XGBoost](week3/이정환_XGBoost.pptx)         |
 | 조윤기 | [data_leakage](week3/조윤기_data_leakage.md) |
@@ -54,7 +54,7 @@
 **내용**: [캐글 Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) 공부하기 2
 
 |  이름  | 자료 |
-| :----: | :--: |
+| :----: | -- |
 | 박지훈 | [Pipelines](week4/박지훈_Pipelines.ipynb)|
 | 이은용 | [Cross_validation](week4/Cross_validation_은용.ipynb) |
 | 조윤기 | [data_leakage2](week4/조윤기_data_leakage2.md) |
@@ -67,12 +67,12 @@
 **내용**:  [캐글 Data Visualization](https://www.kaggle.com/learn/data-visualization) 공부하기
 
 | 이름   | 자료                                                         |
-| ------ | ------------------------------------------------------------ |
+| :----: | ------------------------------------------------------------ |
 | 김동규 | [LinePlot](week5/김동규_LinePlot.ipynb)                      |
 | 조윤기 | [BarCharts and Heatmaps](week5/조윤기/조윤기_Bar_Charts_and_Heatmaps.ipynb) |
 | 박지훈 | [ScatterPlot](week5/박지훈_Scatter_plot.ipynb)               |
 | 이정환 | [DistPlot and kdePlot](week5/이정환_distplot_&_kdeplot_example.ipynb) |
-| 이은용 | - [plot style](week5/이은용_plot_style.ipynb)<br />- [seaborn style](week5/이은용_seaborn_style.ipynb) |
+| 이은용 | [plot style](week5/이은용_plot_style.ipynb)<br /> [seaborn style](week5/이은용_seaborn_style.ipynb) |
 
 <br>
 
