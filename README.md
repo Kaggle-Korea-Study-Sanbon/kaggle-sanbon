@@ -64,6 +64,7 @@
 ### [다섯 번째 스터디](week5) (2019. 11. 02)
 
 **참여인원**: 김동규, 이은용, 이정환, 조윤기
+
 **내용**:  [캐글 Data Visualization](https://www.kaggle.com/learn/data-visualization) 공부하기
 
 | 이름   | 자료                                                         |
@@ -76,11 +77,22 @@
 
 <br>
 
-### [여섯 번째 스터디](week6) (2019.11.5)
+### 여섯 번째 스터디 (2019. 11. 05)
 
 **참여인원**: 김동규, 박지훈, 이은용, 이정환, 조윤기
 
 **내용**: 
 
 - [캐글 컴피티션 - 2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019) 시작
+- '모각캐' 형식으로 진행
+
+<br>
+
+### 일곱 번째 스터디 (2019. 11. 17)
+
+**참여인원**: 이은용, 이정환, 조윤기
+
+**내용**: 
+
+- [캐글 컴피티션 - 2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019) 진행 중
 - '모각캐' 형식으로 진행
