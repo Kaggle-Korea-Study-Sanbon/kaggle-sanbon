@@ -5,7 +5,6 @@
 >
 > Note: No official relationship with kaggle  
 캐글 코리아의 지역 스터디 그룹 중 **산본** 지역에서 활동하는 캐글 스터디 그룹입니다.
-
 <br>
 
 ## 스터디 기록
@@ -94,5 +93,5 @@
 
 **내용**: 
 
-- [캐글 컴피티션 - 2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019) 진행 중
+- [캐글 컴피티션 - 2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019) 진행 중(상위9%)
 - '모각캐' 형식으로 진행
