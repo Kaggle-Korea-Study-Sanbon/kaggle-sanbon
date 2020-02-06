@@ -93,5 +93,5 @@
 
 **내용**: 
 
-- [캐글 컴피티션 - 2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019) 진행 중(2020-01-22, 최종결과 상위9%)
+- [캐글 컴피티션 - 2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019) 진행 중(2020-01-22, 최종결과 [상위9%](https://www.kaggle.com/c/data-science-bowl-2019/leaderboard))
 - '모각캐' 형식으로 진행
