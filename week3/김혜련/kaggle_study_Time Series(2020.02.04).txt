@@ -1,0 +1,94 @@
+﻿# 시계열분석 ? (넓은 의미) 시간에 대해 모인 자료들
+
+
+* PANDAS의 뿌리는 금융 시계열 분석 
+* 시간에 대해 데이터를 다루는 훌륭한 기능
+ -> 다른 기간에 대해 자료를 종합하거나 데이터 표본 추출 등 여러 기능 지원
+      - 미래 예측이 아닌 과거/현재를 위한 분석 방법  
+
+
+
+
+
+
+#  파이썬과 Pandas의 날짜 도구 차이 이해
+
+
+* (파이썬) 날짜와 시간의 코어 기능 - datetime 모듈 
+: 모듈 내 세 가지데이터 형식 지원 (date(연/월/일), time(특정 시각) 그리고 datetime)
+ 
+ 
+* (Pandas) 날짜와 시간을 모두 갖고 있음 - Timestamp라는 단일 객체
+: 나노초(10억분의 1초) 단위의 정밀도를 갖고 있음 from NumPy(datetime64 형식)
+: TImestamp 생성자는 매우 유연해서 광범위한 입력을 다룰 수 있음
+   Ex) pd.Timestamp(‘2016/1/10’), pd.Timestamp(‘Jan 3, 2019 20:45.56’)
+
+
+※ pandas에는 to_datetime함수가 있어, Timestamp 생성자와 비슷하게 작동
+   : to_datetime 함수에는 더 많은 기능이 있음.
+     HOW? 전체 리스트, 정수, 문자열의 Series를 Timestamp로 변환할 수 있다.
+      -> 통상 Series 또는 DateFrame을 단일 스칼라 값보다 더 많이 접하게 되므로, 
+          Timestamp보다는 to_datetime을 사용하는 경우가 빈번하다
+          EX) s = pd.Series([10, 100, 1000, 10000])
+                 pd.to_datetime(s, unit=’D’)
+                     ※ 유닉스 탄생시각 : 1970/1/1 이후
+   
+ 
+
+
+* (파이썬 & Pandas) timedelta 객체를 갖고 있음  -> 날짜의 덧셈 / 뺄셈 시 유용함
+
+
+EX) 
+td(*timedelta) = datetime.timedelta(weeks=2, days=5, hours=10, minutes=20, seconds=6.73, milliseconds=99, microseconds=8) 
+
+
+print(td) => 19 days, 10:20:06.829008
+import pandas as pd
+ 
+#[1] hdf5(대규모 과학 데이터 저장/csv파일과는 다름) 파일에서 읽어 -> 데이터형식 출력
+crime = pd.read_hdf('./crime.h5', 'crime')
+print(crime.dtypes)
+print()
+ 
+#[2] [별도의 열 생성] 보다 유용한 Timestamp로 분할하는 것이 가능하도록 REPORTED_DATE 열을 인덱스로 생성
+# 인덱스 연산자를 이용해 날짜 선택/분할하려면 인덱스에 날짜값이 있어야한다
+# -> REPORTED_DATE 열을 인덱스로 옮김
+crime = crime.set_index('REPORTED_DATE')
+print(crime.head())
+print()
+ 
+#[3] [.loc 인덱스 연산자] 모든 행을 단일 인덱스와 일치하도록 선택하기 위해 값을 .loc 인덱스 연산자에 전달
+print(crime.loc['2016-05-12 16:45:00'])
+print()
+ 
+#[4] [Timstamp] 인덱스의 Timestamp에는 모든 행이 인덱스 값에 부분적으로 매치되도록 선택할 수 있다.
+print(crime.loc['2016-05-12'])
+print()
+ 
+#[5] 전체 달, 연도, 하루 특정 시각에 대해서도 가능
+print(crime.loc['2016-05'].shape)
+print(crime.loc['2016'].shape)
+print(crime.loc['2016-05-12 03'].shape)
+print()
+ 
+#[6] 선택 문자열은 월의 이름을 가질 수도 있음
+print(crime.loc['Dec 2015'].sort_index())
+print()
+ 
+#[7] 달 이름을 포함한 다른 문자열 패턴 역시 잘 작동
+print(crime.loc['2016 Sep, 15'].shape)
+print(crime.loc['21st October 2014 05'].shape)
+print()
+ 
+#[8] 선택을 더해 슬라이스 표기법을 통해 데이터 특정 영역을 선택
+print(crime.loc['2015-03-04' : '2016-1-1'].sort_index())
+print()
+ 
+#[9] 시간과 상관없이 마지막 날 모든 범죄는 결과에 항상 포함됨 (.loc 인덱서를 사용하면 동일)
+# 분할 시 시작과 마지막에 정밀도 지정 가능
+print(crime.loc['2015-3-4 22' : '2016-1-1 11:45:00'].sort_index())
+print()
+'''
+hdf5 파일의 장점 ? 각 열의 데이터 형식을 유지함 -> 메모리 사용량을 근본적으로 줄어줌
+Pandas의 범주형이 아닌 객체로 저장하면 네 배 이상의 메모리 사용량이 필요했을 것
