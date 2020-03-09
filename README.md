@@ -128,6 +128,6 @@
 | 이은용 |                                                              | 기초 통계, 회귀 분석 및 검증 |
 | 이혜진 |                                                              | 기초 통계, 회귀 분석 및 검증 |
 | 이정환 | [Machine Learning Tips](week7/이정환/Machine_Learning_Tips.md) |         딥러닝 기초          |
-| 조윤기 |                                                              |         딥러닝 기초          |
+| 조윤기 | [Learning rate, Data preprocessing, Overfitting](week7/조윤기/lec07/)<br />[Deep Learning Start](week7/조윤기/lec08/)<br />[XOR 문제 딥러닝으로 풀기](week7/조윤기/lec09/) |         딥러닝 기초          |
 
 <br>
