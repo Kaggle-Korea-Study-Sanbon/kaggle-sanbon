@@ -162,7 +162,7 @@
 | 김혜련 | [카이제곱검정의 개념 및 적용](week9/김혜련)                  | 기초 통계, 회귀 분석 및 검증 |
 | 박지훈 |                                                              | 기초 통계, 회귀 분석 및 검증 |
 | 이은용 |                                                              | 기초 통계, 회귀 분석 및 검증 |
-| 이혜진 |                                                              | 기초 통계, 회귀 분석 및 검증 |
+| 이혜진 | [Ch21 카이스퀘어 검정-1](week9/이혜진/Ch21-1.md)<br />[Ch21 카이스퀘어 검정-2](week9/이혜진/Ch21-2.md) | 기초 통계, 회귀 분석 및 검증 |
 | 이정환 |                                                              |         딥러닝 기초          |
 | 조윤기 | [ReLU가 Sigmoid 보다 좋다](week9/조윤기/lec10/lec10.md)<br />[Initialize weights in a smart way](week9/조윤기/lec10/lec10-2.md)<br />[Dropout](week9/조윤기/lec10/lec10-3.md)<br />[NN Lego play](week9/조윤기/lec10/lec10-4.md)<br />[lec10 기법 MNIST에 적용해보기](week9/조윤기/lec10/lec10.ipynb) |         딥러닝 기초          |
 
